@@ -1,9 +1,9 @@
 # Refer to https://github.com/mkdocs/mkdocs/blob/master/mkdocs.yml for a working example
 site_name: Ethereum Smart Contract Best Practices
-site_url: https://github.com/ConsenSys/smart-contract-best-practices
+site_url: https://github.com/sunilake/smart-contract-best-practices
 site_description: 
 site_author: ConsenSys
-repo_url: https://github.com/ConsenSys/smart-contract-best-practices
+repo_url: https://github.com/sunilake/smart-contract-best-practices
 
 pages:
   - Home: index.md
